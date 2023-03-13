@@ -1,17 +1,5 @@
 package revisaosobrecarga;
 
-/* o objetivo é: fazer vários construtores e pedir para pessoa colocar n  pessoas com nome, preço e quantidade. em seguida a pessoa vai ESCOLHER qual sobrecarga ela quer que apareça.
-
-A ideia é: eu tenho várias sobrecargas e eu vou mostrar no final somente partes dos atributos ou todos eles, o usuário é quem decide.
-output:
-2 produtos
-id:1
-nome: sabão
-preco: 10.00
-quantidade: 13
-
- */
-
  public class DadosDosProdutos{
     private int Id;
   
